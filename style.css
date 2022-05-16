@@ -62,6 +62,12 @@ body
     100%{transform: translateY(10px);}
 }
 
+.img
+{
+    vertical-align: middle;
+    border-radius: 20px;
+}
+
 /*--------------About-------------*/
 .about
 {
